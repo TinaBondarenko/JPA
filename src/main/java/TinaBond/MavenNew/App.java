@@ -18,6 +18,8 @@ public class App
 		
 		em.getTransaction().begin();
 		
+		
+		
 //		TeacherDetails teacherDetails = new TeacherDetails();
 //		teacherDetails.setEmail("teacher@gmail.com");
 //		teacherDetails.setHobbby("Programming");
